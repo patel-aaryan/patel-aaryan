@@ -4,13 +4,13 @@ I'm a Software Engineer focused on building scalable APIs, automated pipelines, 
 
 ### 🚀 What I'm currently working on
 
-- Architecting **Nexus Foundry**, an agentic developer portal automating project onboarding & DevOps workflows for the UW Data Science Club
+- Architecting **Nexus Foundry**, an agentic developer portal automating project onboarding for the UW Data Science Club
 - Building **Atrangi Eventz**, a scalable ticketing platform with a focus on robust serverless architecture
 - Automating developer workflows, streamlining CI/CD deployment pipelines, and managing infrastructure security with Infisical
 
 ### 💼 Previously at
 
-- **DevOps & Software Engineer Intern** @ RBC Capital Markets (Next.js, TanStack, Redux, GitHub Actions, Docker, Azure/AWS)
+- **DevOps & Software Engineer Intern** @ RBC Capital Markets (GitHub Actions, Docker, Azure/AWS)
 - **Backend/API Developer** @ Scrawlr (Node.js, Fastify, PostgreSQL, Redis)
 - **Application Developer** @ CGI (Google Cloud, Terraform, PostgreSQL)
 - **Software Developer** @ JANA Corporation (C#, ASP.NET, SQL Server)
