@@ -52,7 +52,7 @@ I'm a Software Engineer focused on building scalable APIs, automated pipelines, 
 <div align="center">
   <img src="https://stats.aaryan-patel.com/api?username=patel-aaryan&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats" height="195" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://stats.aaryan-patel.com/api/top-langs/?username=patel-aaryan&layout=compact&theme=radical" alt="Top Languages" height="195" />
+  <img src="https://stats.aaryan-patel.com/api/top-langs/?username=patel-aaryan&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="195" />
 </div>
 
 ---
