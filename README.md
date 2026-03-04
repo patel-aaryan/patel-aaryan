@@ -10,12 +10,10 @@ I'm a Software Engineer focused on building scalable APIs, automated pipelines, 
 
 ### 💼 Previously at
 
-- **RBC Capital Markets** | _DevOps Engineer & Software Engineer Intern_
-  - Orchestrated multi-cloud architecture across Azure and AWS, and optimized CI/CD pipelines using GitHub Actions, Helm, and Docker.
-- **Scrawlr** | _Backend/API Developer_
-  - Architected scalable, AI-driven APIs and code-generation pipelines using Node.js, Fastify, Postgres, and Redis.
-- **CGI Inc** | _Application & Junior Developer_
-  - Provisioned cloud infrastructure via Terraform and built secure enterprise API ecosystems on Google Cloud.
+- **DevOps & Software Engineer Intern** @ RBC Capital Markets (GitHub Actions, Docker, Azure/AWS)
+- **Backend/API Developer** @ Scrawlr (Node.js, Fastify, Postgres, Redis)
+- **Application Developer** @ CGI (Google Cloud, Terraform, PostgreSQL)
+- **Software Developer** @ JANA Corporation (C#, ASP.NET, SQL Server)
 
 ### 🛠️ Tech Stack
 
