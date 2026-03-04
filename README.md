@@ -10,8 +10,8 @@ I'm a Software Engineer focused on building scalable APIs, automated pipelines, 
 
 ### 💼 Previously at
 
-- **DevOps & Software Engineer Intern** @ RBC Capital Markets (GitHub Actions, Docker, Azure/AWS)
-- **Backend/API Developer** @ Scrawlr (Node.js, Fastify, Postgres, Redis)
+- **DevOps & Software Engineer Intern** @ RBC Capital Markets (Next.js, TanStack, Redux, GitHub Actions, Docker, Azure/AWS)
+- **Backend/API Developer** @ Scrawlr (Node.js, Fastify, PostgreSQL, Redis)
 - **Application Developer** @ CGI (Google Cloud, Terraform, PostgreSQL)
 - **Software Developer** @ JANA Corporation (C#, ASP.NET, SQL Server)
 
