@@ -36,7 +36,7 @@ I'm a Software Engineer focused on building scalable APIs, automated pipelines, 
     </td>
   </tr>
   <tr>
-    <td><strong>DevOps &amp; Infra</strong></td>
+    <td><strong>DevOps &amp; Infrastructure</strong></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
