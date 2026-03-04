@@ -4,9 +4,18 @@ I'm a Software Engineer focused on building scalable APIs, automated pipelines, 
 
 ### 🚀 What I'm currently working on
 
-- Architecting **Nexus Foundry** as VP of Development for the Data Science Club.
-- Streamlining CI/CD pipelines, managing secrets with Infisical, and migrating architectures to monorepos.
-- Previously: DevOps Engineer at **RBC Capital Markets** & Backend Developer at **Scrawlr** (Node.js, Fastify, Postgres, Redis).
+- Architecting **Nexus Foundry**, an agentic developer portal automating project onboarding & DevOps workflows for the UW Data Science Club
+- Building **Atrangi Eventz**, a scalable ticketing platform with a focus on robust serverless architecture
+- Automating developer workflows, streamlining CI/CD deployment pipelines, and managing infrastructure security with Infisical
+
+### 💼 Previously at
+
+- **RBC Capital Markets** | _DevOps Engineer & Software Engineer Intern_
+  - Orchestrated multi-cloud architecture across Azure and AWS, and optimized CI/CD pipelines using GitHub Actions, Helm, and Docker.
+- **Scrawlr** | _Backend/API Developer_
+  - Architected scalable, AI-driven APIs and code-generation pipelines using Node.js, Fastify, Postgres, and Redis.
+- **CGI Inc** | _Application & Junior Developer_
+  - Provisioned cloud infrastructure via Terraform and built secure enterprise API ecosystems on Google Cloud.
 
 ### 🛠️ Tech Stack
 
