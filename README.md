@@ -39,8 +39,8 @@ I'm a Software Engineer focused on building scalable APIs, automated pipelines, 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patel-aaryan&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-aaryan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://stats.aaryan-patel.com/api?username=patel-aaryan&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats" />
+  <img src="https://stats.aaryan-patel.com/api/top-langs/?username=patel-aaryan&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
