@@ -78,5 +78,5 @@ I'm a Software Engineer focused on building scalable APIs, automated pipelines, 
 
 <details>
 <summary>⚡ Outside of coding</summary>
-When I'm not building APIs or optimizing database migrations, you can usually find me training in Muay Thai, boxing, and Brazilian Jiu Jitsu.
+When I'm not working on new projects and building applications, you can usually find me training in Muay Thai, Boxing, and Brazilian Jiu Jitsu.
 </details>
