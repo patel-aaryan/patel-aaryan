@@ -4,7 +4,7 @@ I'm a Software Engineer focused on building scalable APIs, automated pipelines, 
 
 ### 🚀 What I'm currently working on
 
-- Incoming **Software Engineer Intern** @ **Zip (ZipHQ)** - joining the team building an AI-powered procurement orchestration platform streamlining enterprise intake-to-pay workflows
+- Incoming **Software Engineer Intern** @ **Zip (ZipHQ)** - an AI-powered procurement orchestration platform
 - Architecting **Nexus Foundry** - an agentic developer portal automating project onboarding for the UW Data Science Club
 - Building **Atrangi Eventz** - a scalable cost-efficient ticketing platform with a focus on robust serverless architecture
 - Always building new things - partnering with businesses and creators to engineer custom, scalable solutions
